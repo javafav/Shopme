@@ -1,0 +1,18 @@
+1678098430796	Rename package 'com.shopme.site.security'
+1678098459709	Rename package 'com.shopme.site'
+1678109469752	Move 'error.html' to 'templates'
+1678109493623	Rename resource '5000.html'
+1678166717297	Move '404.html' to 'templates'
+1678166825855	Move '404.html' to 'error'
+1678182216882	Rename resource '500.html'
+1678182238102	Move 'error.html' to 'error'
+1678195950642	Move 'products_by_category.html' to 'product'
+1678195982635	Copy file
+1678196189133	Rename resource 'products_detail.html'
+1678197137747	Move 'fragments.html' to 'product'
+1678197142431	Move 'fragments.html' to 'templates'
+1678197149671	Copy file
+1678197173256	Rename resource 'fragments.html'
+1678197177328	Move 'breadcrumb.html' to 'templates'
+1678283491667	Rename resource 'product_info.html'
+1678527656311	Delete element

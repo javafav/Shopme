@@ -1,0 +1,17 @@
+package com.shopme.address;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class AddressController {
+
+  @GetMapping("/address_book")
+  public String showAddressBook(Model model ,HttpServletRequest request) {
+	  
+	  return "address_book/addresses" ;
+  }
+}
